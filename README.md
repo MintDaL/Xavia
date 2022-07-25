@@ -2,7 +2,7 @@
 
 # XaviaBot on Glitch
 
-As you know [glitch](glitch.com) is a stupid website so i'm here to help you use XaviaBot by glitch. Here are somethings you need to keep in mind:
+As you know [glitch](https://www.glitch.com) is a stupid website so i'm here to help you use XaviaBot by glitch. Here are somethings you need to keep in mind:
 
 • You don't need ```npm i``` and ```npm start``` because this website has got you done it.
 • When you change any character of any file it will restart automatically. To restrict that add the file [watch.json](github.com/MintDaL/watch.json) to your project to limit that.
